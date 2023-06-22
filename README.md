@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AriyoM
 - 👀 I’m interested in Automation.
-- 🌱 I’m currently learning new skills on Tableau..
+- 🌱 I’m currently learning new skills on automation
 - 💞️ I’m looking to collaborate on a new project..
 - 📫 How to reach me mutiatariyo@yahoo.co.uk.
 
